@@ -18,5 +18,10 @@
   },
   "include": [
       "src/**/*"
-  ]
+  ],
+//   除外
+ "exclude": [
+    "node_modules", "dist"
+  ],
+
 }
